@@ -5,7 +5,7 @@ It is one of the challanges from Advent of JavaScript in which we have to build 
 # How to Run
 
 - install vite.
-- Clone this repository (git clone https://github.com/owais11-art/E-commerce-cart-component.git).
+- Clone this repository (git clone https://github.com/owais11-art/tip-calculator.git).
 - npm install (To install all the dependencies)
 - npm run dev (To start development server at http://localhost:5173/)
 
